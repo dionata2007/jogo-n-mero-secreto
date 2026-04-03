@@ -5,7 +5,7 @@
 //paragrafo.innerHTML = 'Escolha um número de um a 100';
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
